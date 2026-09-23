@@ -1,3 +1,0 @@
-function llamr() {
-  alert("sisirve");
-}
