@@ -1,1 +1,6 @@
-document.querySelector("h1").addEventListener("click", () => alert("xd:v"));
+let contador = 0;
+
+function contarClics() {
+  contador++;
+  alert(`presionado ${contador} veces :D`);
+}
