@@ -1,40 +1,19 @@
-body{
-    background: linear-gradient(#DAD7DC,#A3B18A);   
-    background-size: contain;
-    background-attachment: fixed; 
-    align-content: center;/*ALINEAR ITEMS AL CENTRO*/
-
+body {
+  background: linear-gradient(#dad7dc, #a3b18a);
+  background-size: contain;
+  background-attachment: fixed;
+  align-content: center; /*ALINEAR ITEMS AL CENTRO*/
 }
 
-.card1{
-    width: 500px;
-    height: 500px;
-    background-color: #344e41;
-    align-content: center;/*ALINEAR ITEMS AL CENTRO*/
-    border-radius: 50px;
+.card1 {
+  width: 500px;
+  height: 500px;
+  background-color: #02be60;
+  align-content: center; /*ALINEAR ITEMS AL CENTRO*/
+  border-radius: 50px;
 }
-.titulo{
-    color: #DAD7DC;
-    font-family: Century Gothic;
-    font-size: 3rem;
-}
-
-.inp{
-    border-radius: 50px;
-    font-family: Century Gothic;
-    width: 350px;
-    height: 50px;
-    border: 80px;
-    background-color: #588157;
-    color: #DAD7DC;
-    text-align: center;
-    
-
-
-}
-
-.inp:hover{
-    transform: scale(1.2);
-    transition: 100ms;
-
+.titulo {
+  color: #000000;
+  font-family: Century Gothic;
+  font-size: 3rem;
 }
